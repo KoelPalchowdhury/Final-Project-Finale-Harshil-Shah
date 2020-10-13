@@ -13,7 +13,7 @@ var canvas;
 var score=0;
 
 function preload(){
-backGround=loadImage("Images/background.jpg")
+backGround=loadImage("background.jpg")
 
 
 }
